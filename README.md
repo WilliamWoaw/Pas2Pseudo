@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pas2pseudo&label=Profile%20views&color=0e75b6&style=flat" alt="pas2pseudo" /> </p>
 
-- 🔭 I’m currently working on [Hyriode & personal projects](discord.gg/hyriode)
+- 🔭 I’m currently working on [Hyriode & personal projects]([https://discord.gg/hyriode](https://discord.gg/hyABwym7kd))
 
 - 🌱 I’m currently learning **Docker**
 
